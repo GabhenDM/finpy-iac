@@ -16,6 +16,7 @@ Example app utilized: [Finpy](https://github.com/GabhenDM/finpy-ci)
 
 
 ## Todo:
-
+- &cross; Output variables after terraform apply
+- &cross; Terraform vars (ikr)
 - &cross; S3 Bucket for ALB Access Logs
 - &cross; Autoscaling group for EC2 instances
